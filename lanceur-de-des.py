@@ -255,7 +255,7 @@ while Cloque:
 				Visu0()	
 
 			else:
-				print("aucunne commande ne sapelle comme sa \n /help poura vous aider")
+				print("aucune commande ne s'apelle comme ça \n /help pourras vous aider")
 
 	elif Choix == "cls":
 		os.system("cls")
